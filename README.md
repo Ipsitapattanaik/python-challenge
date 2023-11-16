@@ -1,7 +1,7 @@
 # python-challenge
 Module 3 Python challenge 
 
-#Submittion PyBank
+# Submittion PyBank
 The total number of months included in the dataset
 
 The net total amount of "Profit/Losses" over the entire period
@@ -22,7 +22,7 @@ Average Change: $-8311.11
 Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)
 
-#Submittion PyPoll
+# Submittion PyPoll
 The total number of votes cast
 
 A complete list of candidates who received votes
